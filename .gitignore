@@ -1,0 +1,10 @@
+# Build artifacts
+term-cam
+*.o
+*.dSYM/
+
+# OS metadata
+.DS_Store
+
+# Captured frames
+capture/
